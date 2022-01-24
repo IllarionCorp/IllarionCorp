@@ -19,7 +19,7 @@
 * :white_large_square:Go
 
 ## Связь со мной:
-[![](https://vk.cc/c3iFBT)](https://vk.com/warchikt)
+[![](https://uc27d7c0f35fd1a1f9144aa404d6.previews.dropboxusercontent.com/p/thumb/ABaXqWOb4QYdPvFyOq6yqQIHHU0v52jMa8wTYPQPwUeVBqc-l0XsMpQnaQC1pPkZFk2DjV28R7ALjegyqPAHZAgG3ktnQ3TLMjYGQo_9AbCeA4JZQYJ5YO-pNKr1mRMETAHH0Tzj6dqWdb9Q4oGnuDfIRcF1pe8tKiMVphu_l2ToQCGkfAIb23i9CkrtEJ2c_P3g2Ve0qLm66HtILjvR1wHYyFIoazO8m3fpuFOzf8TogNt_c_T2QcU87QjJWpFU1kw1dGp545Ktbys7QMbgwJKpCJvBbbyKjIT_maabov4qMK18sYBxp1X4VkAJCvdPvV0moxbAaavFjGAcd337p2v5Rvf6TTJzDN-mjg5KJn5xKTK6yXSKU-6EWiqqcMTf-cU/p.png)](https://vk.com/warchikt)
 
 ## Мой стек:
 ![](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="64" height="64" />
