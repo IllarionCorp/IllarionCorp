@@ -20,7 +20,7 @@
 
 ## Мой стек:
 ![](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="64" height="64" />
-<img src="https://commons.wikimedia.org/wiki/File:Git-logo.svg" width="64" height="64" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="64" height="64" />
 
 <!--
 **IllarionCorp/IllarionCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
