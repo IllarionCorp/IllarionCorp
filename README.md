@@ -3,6 +3,7 @@
 * :octocat:На данный момент я разрабатываю авторизацию пользователей для проекта [express-mesto](https://github.com/IllarionCorp/express-mesto)
 * :dancers:Хочу работать с опытной командой разработчиков и развиваться профессионально
 * :saxophone:В ближайшем будущем планирую освоить Goolang для бэкенда
+* :ocean:В будущем хочу стать full stack
 
 ## :earth_africa:Road map:
 * :white_large_square:Яндекс.Практикум
