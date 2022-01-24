@@ -10,12 +10,13 @@
         * [How-to-learn](https://github.com/IllarionCorp/how-to-learn/settings)
         * [Russian-travel](https://github.com/IllarionCorp/russian-travel)
     * :white_check_mark:Native JS
-      * [Mesto](https://github.com/IllarionCorp/mesto)
+        * [Mesto](https://github.com/IllarionCorp/mesto)
     * :white_check_mark:React.js
-      * [React-mesto](https://github.com/IllarionCorp/mesto-react)
-      * [React-mesto-auth](https://github.com/IllarionCorp/react-mesto-auth)
+        * [React-mesto](https://github.com/IllarionCorp/mesto-react)
+        * [React-mesto-auth](https://github.com/IllarionCorp/react-mesto-auth)
     * :white_large_square:Express
-      * [express-mesto](https://github.com/IllarionCorp/express-mesto)
+        * [express-mesto](https://github.com/IllarionCorp/express-mesto)
+  
 <!--
 **IllarionCorp/IllarionCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
