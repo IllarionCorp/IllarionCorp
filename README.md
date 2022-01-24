@@ -19,7 +19,7 @@
 * :white_large_square:Go
 
 ## Мой стек:
-![](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png)
   
 <!--
 **IllarionCorp/IllarionCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
