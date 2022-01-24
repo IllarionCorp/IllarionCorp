@@ -27,8 +27,8 @@
 ____
 
 <div align="center">
-   <a align="center" href="https://github.com/IllarionCorp">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=IllarionCorp" />
+   <a href="https://github.com/IllarionCorp">
+      <img src="https://github-readme-stats.vercel.app/api?username=IllarionCorp" />
    </a>
 </div>
 <!--
