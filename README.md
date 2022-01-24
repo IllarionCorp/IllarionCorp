@@ -3,7 +3,7 @@
 * :octocat:На данный момент я разрабатываю авторизацию пользователей для проекта [express-mesto](https://github.com/IllarionCorp/express-mesto)
 * :dancers:Хочу работать с опытной командой разработчиков и развиваться профессионально
 * :saxophone:В ближайшем будущем планирую освоить Goolang для бэкенда
-* :ocean:В будущем хочу стать full stack
+* :ocean:В будущем хочу стать full stack разработчиком
 
 ## :earth_africa:Road map:
 * :white_large_square:Яндекс.Практикум
@@ -18,6 +18,7 @@
     * :white_large_square:Express
         * [express-mesto](https://github.com/IllarionCorp/express-mesto)
 * :white_large_square:Go
+      * :white_large_square:Backend с интеграцией в Active Directory
 
 ## :telescope:Мой стек:
 ![](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="64" height="64" />
