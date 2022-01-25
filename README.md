@@ -8,7 +8,7 @@
 ## :earth_africa:Road map:
 * :white_large_square:Яндекс.Практикум
     * :white_check_mark:Верстка
-        * [How-to-learn](https://github.com/IllarionCorp/how-to-learn/settings)
+        * [How-to-learn](https://github.com/IllarionCorp/how-to-learn)
         * [Russian-travel](https://github.com/IllarionCorp/russian-travel)
     * :white_check_mark:Native JS
         * [Mesto](https://github.com/IllarionCorp/mesto)
