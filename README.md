@@ -15,8 +15,9 @@
     * :white_check_mark:React.js
         * [React-mesto](https://github.com/IllarionCorp/mesto-react)
         * [React-mesto-auth](https://github.com/IllarionCorp/react-mesto-auth)
-    * :white_large_square:Express
+    * :white_check_mark:Express
         * [express-mesto](https://github.com/IllarionCorp/express-mesto)
+    * :white_large_square:Диплом
 * :white_large_square:Go
     * :white_large_square:Backend с интеграцией в Active Directory
 
