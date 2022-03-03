@@ -1,6 +1,6 @@
 # :sunglasses:Привет, меня зовут Илларион:smiley:
 
-* :octocat:На данный момент я разрабатываю пишу диплом по курсу веб-разработки я.практикума
+* :octocat:На данный момент я разрабатываю диплом по курсу веб-разработки я.практикума
 * :dancers:Хочу работать с опытной командой разработчиков и развиваться профессионально
 * :saxophone:В ближайшем будущем планирую освоить Goolang для бэкенда
 * :ocean:В будущем хочу стать full stack разработчиком
@@ -18,7 +18,8 @@
     * :white_check_mark:Express
         * [express-mesto](https://github.com/IllarionCorp/express-mesto)
     * :white_large_square:Диплом
-        * [API диплома](https://github.com/IllarionCorp/movies-explorer-api)    
+        * [API диплома](https://github.com/IllarionCorp/movies-explorer-api)
+        * [Front-end](https://github.com/IllarionCorp/movies-explorer-frontend)    
 * :white_large_square:Go
     * :white_large_square:Backend с интеграцией в Active Directory
 
